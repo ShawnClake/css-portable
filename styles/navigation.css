@@ -1,0 +1,35 @@
+.nav-font {
+	color:#F5F5F5;
+	font-size:23px;
+	font-family:arial;
+	position:relative;
+	left:10px;
+	width:300px;
+}
+
+.nav-link {
+	text-decoration: none;
+	color:#F5F5F5;
+}
+
+.nav-btn {
+	text-decoration: none;
+	color:#fff;
+}
+
+.nav-btn .fancy-hollow {
+	width:150px;
+	height:40px;
+    padding:5px 15px; 
+    background:rgba(0,0,0,0); 
+    border:2px solid;
+	border-color:#217A23;
+    cursor:pointer;
+    -webkit-border-radius: 15px;
+    border-radius: 15px; 
+	margin-left:15px;
+}
+
+.nav-buttons {
+	text-align:right;
+}
