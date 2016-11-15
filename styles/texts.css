@@ -1,4 +1,82 @@
-.login-font {
+.arial
+{
 	font-family: arial;
+}
+
+.verdana
+{
+	font-family: verdana;
+}
+
+.bold
+{
+	font-style:bold;
+}
+
+.italic
+{
+	font-style:italic;
+}
+
+.outline
+{
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.stroke
+{
+	-webkit-text-fill-color: black;
+	-webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1.00px; 
+}
+
+.big .stroke
+{
+	-webkit-text-stroke-width: 5.00px; 
+}
+
+.invert .stroke
+{
+	-webkit-text-fill-color: white;
+	-webkit-text-stroke-color: white;
+}
+
+.medium .stroke
+{
+	-webkit-text-stroke-width: 3.00px; 
+}
+
+.wider .stroke
+{
+	-webkit-text-stroke-width: 2.00px; 
+}
+
+.large
+{
+	font-size:36px;
+}
+
+.medium-large
+{
 	font-size:25px;
+}
+
+.medium
+{
+	font-size: 17px;
+}
+
+.regular
+{
+	font-size: 12px;
+}
+
+.small
+{
+	font-size: 9px;
+}
+
+.extra-small
+{
+	font-size: 7px;
 }
